@@ -57,6 +57,7 @@ To get a local copy up and running, follow these steps.
 Git
 VS Code
 Node
+Bash
 ```
 
 ### Setup
